@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+*.exe
+
+cmd/cmd/cmd
+cmd/lemo/lemo

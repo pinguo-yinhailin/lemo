@@ -1,0 +1,11 @@
+env: prod
+system:
+  setting:
+    name: Lemo 示例
+    isAdmin: false
+    maxPage: 10
+    pi: 3.1415926
+    emails:
+      - yinhailin@camera360.com
+      - ybhdlb@camera360.com
+nameFile: ../../assets/data/name.json
